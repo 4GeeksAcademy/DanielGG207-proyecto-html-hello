@@ -1,0 +1,57 @@
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.body{
+    background-color: white;
+    width: 45%;
+    
+
+}
+
+
+
+.fa-brands {
+    font-size: 40px;
+    color:blue;
+    padding: 7px 7px 7px 7px;
+}
+
+.principal{
+    display: flex;
+    flex-direction: row;
+}
+
+.fa-solid {
+    float:right; 
+    font-size: 40px;
+    margin-left: auto;
+}
+
+.f {
+    margin: 0px;
+    font-size: 24;
+}
+
+img {
+    width: 99.99%;
+    object-fit: cover;
+}
+
+.logos {
+    display:flex; 
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.fa-bookmark {
+    margin-left: auto;
+    
+}
+
+.ultimotx{
+    padding-left: 10px;
+}
